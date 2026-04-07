@@ -1,1 +1,31 @@
-# dbms-sql-practice
+DBMS & SQL Practice
+
+📌 Topics Covered
+
+- Normalization
+- Functional Dependency
+- SQL Queries
+
+💻 Sample Queries
+
+Create Table
+
+CREATE TABLE students (
+id INT,
+name VARCHAR(50),
+age INT
+);
+
+Select Query
+
+SELECT * FROM students;
+
+Insert Query
+
+INSERT INTO students VALUES (1, 'Akshat', 22);
+
+🧠 Concepts Learned
+
+- Data organization
+- Query writing
+- Database design basics

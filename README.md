@@ -29,3 +29,16 @@ INSERT INTO students VALUES (1, 'Akshat', 22);
 - Data organization
 - Query writing
 - Database design basics
+- 📌 Practice Examples
+
+Update Query
+
+UPDATE students SET age = 23 WHERE id = 1;
+
+Delete Query
+
+DELETE FROM students WHERE id = 1;
+
+Conditional Query
+
+SELECT * FROM students WHERE age > 20;
